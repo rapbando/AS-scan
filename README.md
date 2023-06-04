@@ -1,7 +1,7 @@
 # AS-scan
 
 
-Script for piping to Masscan all the announced prefixes for a given AS (Autonomous System) ,installing <a href="https://github.com/robertdavidgraham/masscan)">Masscan</a> form source reccomended or it will hang forever at each scan.
+Script for piping to Masscan all the announced prefixes for a given AS (Autonomous System) ,installing <a href="https://github.com/robertdavidgraham/masscan)">Masscan</a> from source reccomended or it will hang forever at each scan.
 
 
 ### Usage:
