@@ -1,7 +1,7 @@
 # AS-scan
 
 
-Script for piping to Masscan all the announced prefixes for a given AS (Autonomous System).
+Script for piping to Masscan all the announced prefixes for a given AS (Autonomous System) ,installing Masscan form source reccomended or it will hang forever at each scan.
 
 
 ### Usage:
