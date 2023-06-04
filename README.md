@@ -6,6 +6,6 @@ Script for piping to Masscan all the announced prefixes for a given AS (Autonomo
 
 ### Usage:
 
-`Usage: ./AS-scan.sh + number of AS`
+`Usage: ./AS-scan.sh + AS# + port#`
 
-Example: `./AS-scan.sh 36459`
+Example: `./AS-scan.sh 36459 80`
